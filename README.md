@@ -1,3 +1,2 @@
 # task-tracker
- task tracking app
- (yet) no backend
+ task tracking app, (yet) no backend
